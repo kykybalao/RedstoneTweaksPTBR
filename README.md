@@ -1,5 +1,5 @@
 # RedstoneTweaksPTBR
-Arquivo para rodar as mudanças de UI do RedstoneTweaks com a lingua em português
+Arquivo para rodar as mudanças de UI de inventario e alguns containers do RedstoneTweaks com a linguagem do jogo em português
 
 é bem simples inseri-lo 
 
