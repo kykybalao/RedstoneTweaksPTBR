@@ -2,6 +2,7 @@
 Arquivo para rodar as mudanças de UI do RedstoneTweaks com a lingua em português
 
 é bem simples inseri-lo 
+
 1- Extraia a pasta do redstone tweaks, pode ser baixado aqui (https://modrinth.com/resourcepack/redstone-tweaks) créditos ao Rexxstone
 
 2- vá para Assets/Minecraft/Lang
